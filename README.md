@@ -3,7 +3,7 @@ Hey, I’m Lindelani 👋  <br><br>I’m an aspiring software developer with a s
 
 
 ## 🌐 Socials:
-<p align="left"> <a href="https://www.linkedin.com/in/lindelani-mkhaliphi-128484307/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p> [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dlaminlindelani.15@gmail.co,)
+<p align="left"> <a href="https://www.linkedin.com/in/lindelani-mkhaliphi-128484307/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
 
 ## 💻 Skills:
 <p align="left">
